@@ -157,7 +157,10 @@ async def start(client, message):
                          [
                           InlineKeyboardButton('Gʀᴏᴜᴘ', url=GRP_LNK),
                           InlineKeyboardButton('Cʜᴀɴɴᴇʟ', url=CHNL_LNK)
-                       ]
+                        ],[
+                      InlineKeyboardButton("𝐔𝐏𝐋𝐎𝐀𝐃𝐄𝐑", url="t.me/M4MHD")
+                     ]
+                    ]
                     )
                 )
             except FloodWait as e:
@@ -173,7 +176,10 @@ async def start(client, message):
                          [
                           InlineKeyboardButton('Gʀᴏᴜᴘ', url=GRP_LNK),
                           InlineKeyboardButton('Cʜᴀɴɴᴇʟ', url=CHNL_LNK)
-                       ]
+                        ],[
+                      InlineKeyboardButton("𝐔𝐏𝐋𝐎𝐀𝐃𝐄𝐑", url="t.me/M4MHD")
+                     ]
+                    ]
                     )
                 )
             except Exception as e:
@@ -241,7 +247,10 @@ async def start(client, message):
                      [
                       InlineKeyboardButton('Gʀᴏᴜᴘ', url=GRP_LNK),
                       InlineKeyboardButton('Cʜᴀɴɴᴇʟ', url=CHNL_LNK)
-                   ]
+                    ],[
+                      InlineKeyboardButton("𝐔𝐏𝐋𝐎𝐀𝐃𝐄𝐑", url="t.me/M4MHD")
+                     ]
+                    ]
                 )
             )
             filetype = msg.media
@@ -281,7 +290,10 @@ async def start(client, message):
              [
               InlineKeyboardButton('Gʀᴏᴜᴘ', url=GRP_LNK),
               InlineKeyboardButton('Cʜᴀɴɴᴇʟ', url=CHNL_LNK)
-           ]
+            ],[
+                      InlineKeyboardButton("𝐔𝐏𝐋𝐎𝐀𝐃𝐄𝐑", url="t.me/M4MHD")
+                     ]
+                    ]
         )
     )
                     
