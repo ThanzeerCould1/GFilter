@@ -180,6 +180,8 @@ Nᴀᴍᴇ - {}"""
 
     CAPTION = """
 <b>📂 Fɪʟᴇ ɴᴀᴍᴇ : </b> <code>{file_name}</code>
+<b>💿 SIZE : {file_size}
+PC : {file_caption}</b>
 <b>
 ╔════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ═════╗
       ♻️ 𝗖𝗛𝗔𝗡𝗡𝗘𝗟 𝗟𝗜𝗡𝗞 ♻️
