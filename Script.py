@@ -180,7 +180,6 @@ Nᴀᴍᴇ - {}"""
 
     CAPTION = """
 <b>📂 Fɪʟᴇ ɴᴀᴍᴇ : </b> <code>{file_name}</code>
-{previouscaption}
 <b>
 ╔════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ═════╗
       ♻️ 𝗖𝗛𝗔𝗡𝗡𝗘𝗟 𝗟𝗜𝗡𝗞 ♻️
@@ -191,9 +190,9 @@ Nᴀᴍᴇ - {}"""
     IMDB_TEMPLATE_TXT = """<b>🎬 𝖳𝗂𝗍𝗅𝖾    : <b>{title}</b>
 📆 𝖸𝖾𝖺𝗋     : <b>{year}</b>
 🔊 𝖠𝗎𝖽𝗂𝗈   : #{languages}
-💿 𝖰𝗎𝖺𝗅𝗂𝗍𝗒 : <b>HEVC | HD </b></b>
+💿 𝖰𝗎𝖺𝗅𝗂𝗍𝗒 : <b>#HEVC</b></b>
 
-<a href='https://t.me/M4MHD'>㊗️  𝗨𝗣𝗟𝗢𝗔𝗗𝗘𝗥 :- 𝐌𝐇𝐃</a>"""
+<b>㊗️  𝗨𝗣𝗟𝗢𝗔𝗗𝗘𝗥 :- <a href='https://t.me/M4MHD'>𝐌𝐇𝐃</a></b>"""
     
     ALL_FILTERS = """
 <b>Hᴇʏ {}, Tʜᴇsᴇ ᴀʀᴇ ᴍʏ ᴛʜʀᴇᴇ ᴛʏᴘᴇs ᴏғ ғɪʟᴛᴇʀs.</b>"""
