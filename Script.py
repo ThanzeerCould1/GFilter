@@ -179,9 +179,8 @@ Nᴀᴍᴇ - {}"""
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
     CAPTION = """
-<b>📂 Fɪʟᴇ ɴᴀᴍᴇ : </b> <code>{file_name}</code>
-<b>💿 SIZE : {file_size}
-PC : {file_caption}</b>
+<b>📂 Nᴀᴍᴇ :</b> <code>{file_name}</code>\n
+<b>💿 Sɪᴢᴇ : {file_size}</b>
 <b>
 ╔════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ═════╗
       ♻️ 𝗖𝗛𝗔𝗡𝗡𝗘𝗟 𝗟𝗜𝗡𝗞 ♻️
